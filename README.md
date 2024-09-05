@@ -1,4 +1,5 @@
 ## Hi there!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisyamaliah&show_icons=true&theme=omni)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisyamaliah&layout=compact)
+<img alt="Sisy's Stat" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=sisyamaliah&show_logo=true&theme=omni"/>
+
+<img alt="Language Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisyamaliah&layout=compact"/>
