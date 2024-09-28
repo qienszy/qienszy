@@ -1,6 +1,6 @@
 ## Hi there!
 👩🏻‍🎓 I Like to learn new things!<br>
-🎨 Interested in Computer Science<br>
+🎨 Interested in Web Development<br>
 🌷 #growing<br>
 💭 Currently learning about React.js & Three.js!
 
