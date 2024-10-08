@@ -1,7 +1,7 @@
 ## Hi there!
 🎀 I Like to learn new things!<br>
 🎨 Interested in Web Development<br>
-🌷 #growing<br>
+🌷 #stillgrowing<br>
 💭 Currently learning React.js & Three.js!
 
 # 💻 Tech Stack:
