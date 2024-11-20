@@ -1,4 +1,4 @@
-## Hi there!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DD2&width=435&lines=Hi!+I'm+Sisy!)](https://git.io/typing-svg)
 🎀 I Like to learn new things!<br>
 🎨 Interested in Web Development<br>
 🌷 #stillgrowing<br>
