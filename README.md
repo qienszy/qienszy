@@ -11,7 +11,7 @@
 
 <img alt="Language Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingszy&&theme=omni&layout=compact"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=omni)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=qingszy&icon=9&color=10)](https://visitcount.itsvg.in)
