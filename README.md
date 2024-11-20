@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DD2&width=435&lines=Hi!+I'm+Sisy!)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77FBF&width=435&lines=Hi+there%2C+I'm+Sisy!)](https://git.io/typing-svg) <br>
 🎀 I Like to learn new things!<br>
 🎨 Interested in Web Development<br>
 🌷 #stillgrowing<br>
@@ -11,7 +11,7 @@
 
 <img alt="Language Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingszy&&theme=omni&layout=compact"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=qienszy&theme=omni&card_width=435)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=qienszy&theme=omni&card_width=415)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=qingszy&icon=9&color=10)](https://visitcount.itsvg.in)
