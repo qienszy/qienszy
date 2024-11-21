@@ -14,5 +14,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fendy07&theme=omni&card_width=405)](https://git.io/streak-stats)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=qienszy&icon=9&color=10)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=qienszy-github-username&color=ff69b4)
 
