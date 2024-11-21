@@ -14,5 +14,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fendy07&theme=omni&card_width=405)](https://git.io/streak-stats)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{qienszy}/count.svg)
 
