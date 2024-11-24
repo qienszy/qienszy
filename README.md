@@ -11,6 +11,13 @@
 
 <img alt="Language Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qienszy&&theme=omni&layout=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=qienszy&show_icons=true&theme=omni" width="405">
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
 ---
 
