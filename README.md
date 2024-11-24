@@ -11,7 +11,6 @@
 
 <img alt="Language Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qienszy&&theme=omni&layout=compact"/>
 
-[[![GitHub Streak](https://streak-stats.demolab.com?user=fendy07&theme=omni&card_width=405)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com/?user=qienszy&theme=omni&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=qienszy&show_icons=true&theme=omni" width="405">
 ---
 
